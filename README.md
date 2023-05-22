@@ -1,0 +1,2 @@
+# juksemagi
+magisk juks
